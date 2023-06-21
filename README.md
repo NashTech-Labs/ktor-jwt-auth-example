@@ -28,9 +28,7 @@ To run this project, you need to have the following installed:
    ```shell
    git clone git@github.com:knoldus/ktor-jwt-auth-example.git
 
-
-
-
+``
 
 
  ##  Set up the database:
@@ -40,10 +38,9 @@ To run this project, you need to have the following installed:
 - Build and run the project:
 
  ``` shell
-Copy code
 cd ktor-jwt-auth-example
 ./gradlew run
-
+```
 ##  Access the API endpoints:
 
 - Registration endpoint: POST /register
@@ -67,5 +64,4 @@ This project is licensed under the MIT License.
 
 ```shell
 Feel free to customize the content and sections according to your specific project needs.
-
-```
+``
