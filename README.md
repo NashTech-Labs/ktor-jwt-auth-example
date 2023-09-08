@@ -60,11 +60,5 @@ The project uses the following dependencies:
 - Auth0 JWT: A library for handling JWT tokens
 - KTorm: A SQL-centric Kotlin ORM library
 ## License
-This project is licensed under the MIT License.
-
-```shell
-Feel free to customize the content and sections according to your specific project needs.
-``
-
 ## LinkedIn Profile
 * You can connect with me on LinkedIn: https://www.linkedin.com/in/shashikant-tanti/
